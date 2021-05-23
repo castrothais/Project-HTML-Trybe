@@ -9,7 +9,6 @@ body {
   position: fixed;
   top: 0;
   width: 100%;
-
 }
 
 footer {
@@ -20,17 +19,14 @@ footer {
 #minha_foto {
   border-radius: 90%;
   margin-left: 150px;
-  margin-top: 0px;
   width: 150px;
-  
 }
 
-#fundoprojeto{
+#fundoprojeto {
   left: auto;
   height: 400px;
   right: auto;
   width: 100%;
-  
 }
 
 h1 {
@@ -39,12 +35,11 @@ h1 {
   margin-top: 3px;
 }
 
-h2{
+h2 {
   font-size: 20px;
   margin-left: 125px;
   margin-top: -250px;
 }
-
 
 nav {
   display: inline-block;
@@ -52,14 +47,13 @@ nav {
   margin-top: -30px;
 }
 
-nav a{
+nav a {
   color: rgb(70, 67, 67);
   font-style: none;
   padding: 50px;
   font-family: Helvetica;
   text-decoration: none;
 }
-
 
 #licoes_aprendidas {
   line-height: 20px;
@@ -80,10 +74,9 @@ nav a{
 
 }
  .lado-direito {
-   display: inline-block;
-   width: 430px;
+  display: inline-block;
+  width: 430px;
   text-align: center;
-  
- }
+}
 
  
